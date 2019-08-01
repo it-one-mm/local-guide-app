@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">www.myanmartravel.indochinacharm.com</domain>
+        <domain includeSubdomains="true">www.ft.com</domain>
+        <domain includeSubdomains="true">www.res.klook.com</domain>
+        <domain includeSubdomains="true">www.static.asiawebdirect.com</domain>
+
+
+    </domain-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">www.ancientpages.com</domain>
+
+    </domain-config>
+
+
+
+
+</network-security-config>
